@@ -20,4 +20,4 @@ Meet the team!
 
 Check out the organizations supporting our work and research!
 
-% include list.html component="card" data="support" style="small" %}
+{% include list.html component="card" data="support" style="small" %}
