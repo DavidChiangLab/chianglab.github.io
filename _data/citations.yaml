@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1161/CIRCULATIONAHA.119.039642
+- id: doi:10.1101/2025.06.19.660613
   title: Scalable data harmonization for single-cell image-based profiling with CytoTable
   authors:
   - Dave Bunten
@@ -17,7 +17,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCEP.117.005682
+- id: doi:10.1093/nar/gkad1082
   title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
     \ genes\_and diseases across species"
   authors:
@@ -71,7 +71,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCULATIONAHA.118.034361
+- id: doi:10.1101/2023.10.11.560955
   title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
   - Richard J. Abdill
@@ -87,7 +87,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.amjmed.2017.12.009
+- id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
   authors:
@@ -107,7 +107,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1161/CIRCRESAHA.116.309977
+- id: doi:10.1101/2023.01.05.522941
   title: Hetnet connectivity search provides rapid insights into how two biomedical
     entities are related
   authors:
@@ -129,7 +129,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.yjmcc.2016.09.009
+- id: doi:10.1093/gigascience/giad047
   title: Hetnet connectivity search provides rapid insights into how biomedical entities
     are related
   authors:
@@ -151,17 +151,16 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.amjcard.2016.01.031
+- id: doi:10.1101/2022.02.18.461833
   title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
     and phylogeny'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
   - Jacob D Krol
+  - Joseph T Burke
+  - Samuel Z Chen
+  - Lo M Sosinski
+  - Faisal S Alquaddoomi
+  - Evan P Brenner
   - Ethan P Wolfe
   - Vincent P Rubinetti
   - Shaddai Amolitos
@@ -174,7 +173,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.jacc.2014.10.042
+- id: doi:10.1186/s13059-020-02021-3
   title: Compressing gene expression data using multiple latent space dimensionalities
     learns complementary biological representations
   authors:
@@ -189,7 +188,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s00395-015-0505-6
+- id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
   - Daniel S. Himmelstein
@@ -221,7 +220,7 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1161/CIRCRESAHA.116.304940
+- id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
   authors:
@@ -236,7 +235,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.ijcard.2015.01.075
+- id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
   - David N. Nicholson
@@ -247,7 +246,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1161/CIRCEP.115.003098
+- id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
   - Daniel S Himmelstein
@@ -263,13 +262,3 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1161/CIRCULATIONAHA.113.006641
-- id: doi:10.1093/cvr/cvu151
-- id: doi:10.1093/cvr/cvu123
-- id: doi:10.1161/CIRCEP.114.001973
-- id: doi:10.1161/CIRCULATIONAHA.113.006611
-- id: doi:10.1371/journal.pone.0083358
-- id: doi:10.1016/j.jacc.2013.02.070
-- id: doi:10.1371/journal.pone.0058655
-- id: doi:10.1093/cvr/cvt133
-- id: doi:10.1016/j.hrthm.2012.08.026
