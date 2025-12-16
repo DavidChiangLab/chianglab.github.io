@@ -1,4 +1,6 @@
 ---
+layout: home
+title: Chiang Lab
 ---
 
 # Chiang Lab
