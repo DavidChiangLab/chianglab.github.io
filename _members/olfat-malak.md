@@ -2,6 +2,7 @@
 name: Olfat Malak
 image: images/headshots/OMalak.jpg
 role: research-scientist
+description: Research Scientist
 
 ---
 
