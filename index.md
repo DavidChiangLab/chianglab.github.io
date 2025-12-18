@@ -1,6 +1,4 @@
 ---
-layout: home
-title: Chiang Lab
 ---
 
 # Chiang Lab
@@ -8,7 +6,6 @@ title: Chiang Lab
 Based in Brigham and Women's Hospital and Harvard Medical School.
 
 {% include section.html %}
-
 
 {% capture text %}
 
